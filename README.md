@@ -11,6 +11,14 @@ In this project, I developed an **Emotion Detection** web application that analy
 - Error handling to manage invalid inputs.
 - Static code analysis for PEP 8 compliance.
 
+## Important Notice:
+The external URL used for emotion detection in this project is currently disabled, as it was part of the course. Therefore, the service that was previously available at the following URL: https://sn-watson-emotion.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/EmotionPredict
+is no longer accessible.
+
+### What You Can Do:
+- Feel free to explore and adapt the code to fit other emotion detection tools or APIs.
+- Change the URL located in the EmotionDetection/emotion_detection.py file to an alternate service
+
 ## Skills Demonstrated
 
 - **Emotion Detection:** Implemented an emotion detection system using the Watson NLP API to process and analyze text input.
@@ -37,7 +45,8 @@ To set up this project locally, follow these steps:
     This project requires Python 3.11 and the following packages:
 
     ```bash
-    pip install -r requirements.txt
+    pip install flask
+    pip install requests
     ```
 
 3. **Run the Application:**
@@ -77,6 +86,7 @@ The primary endpoint for the application is:
         "dominant_emotion": "joy"
     }
     ```
+
 
 ## Acknowledgements
 - The course *"Developing AI Applications with Python and Flask"*, offered by **IBM** through **Coursera**.
