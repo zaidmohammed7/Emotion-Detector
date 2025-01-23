@@ -36,8 +36,8 @@ To set up this project locally, follow these steps:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/yourusername/emotion-detection-app.git
-    cd emotion-detection-app
+    git clone https://github.com/zaidmohammed7/Emotion-Detector.git
+    cd Emotion-Detector
     ```
 
 2. **Install required dependencies:**
