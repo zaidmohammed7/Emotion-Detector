@@ -14,7 +14,7 @@ In this project, I developed an **Emotion Detection** web application that analy
 - Static code analysis for PEP 8 compliance.
 
 ## Important Notice:
-The external URL used for emotion detection in this project is currently disabled, as it was part of the course. Therefore, the service that was previously available at the following URL: https://sn-watson-emotion.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/EmotionPredict
+The external URL used for emotion detection in this project is currently disabled, as it was a part of the course. Therefore, the service that was previously available at the following URL: https://sn-watson-emotion.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/EmotionPredict
 is no longer accessible.
 
 ### What You Can Do:
@@ -98,5 +98,3 @@ The primary endpoint for the application is:
   You can find more details about the course [here](https://www.coursera.org/learn/python-project-for-ai-application-development).
 - Initial project template was forked from "https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git"
 - Special thanks to the **IBM Developer Skills Network** for providing the foundational project structure and guidance.
-
----
