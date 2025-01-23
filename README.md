@@ -4,6 +4,8 @@
 
 In this project, I developed an **Emotion Detection** web application that analyzes customer feedback in text format. The application processes the feedback, identifies the emotions (like joy, sadness, anger, disgust, and fear), and provides a response indicating the dominant emotion. This type of AI-based system is valuable for understanding user sentiments in applications such as chatbots, recommendation systems, and customer support systems.
 
+---
+
 ### Key Features:
 - Emotion analysis based on customer feedback using **Watson NLP** library.
 - Return output in a structured format (emotion scores and dominant emotion).
@@ -19,6 +21,8 @@ is no longer accessible.
 - Feel free to explore and adapt the code to fit other emotion detection tools or APIs.
 - Change the URL located in the EmotionDetection/emotion_detection.py file to an alternate service
 
+---
+
 ## Skills Demonstrated
 
 - **Emotion Detection:** Implemented an emotion detection system using the Watson NLP API to process and analyze text input.
@@ -27,6 +31,8 @@ is no longer accessible.
 - **Unit Testing:** Wrote unit tests to validate the functionality of the emotion detection application.
 - **Static Code Analysis:** Ran static code analysis using **PyLint** to ensure compliance with best coding practices.
 - **GitHub & Version Control:** Managed project development and version control using Git and GitHub, ensuring smooth collaboration and easy code management.
+
+---
 
 ## Project Setup and Installation
 
@@ -87,8 +93,10 @@ The primary endpoint for the application is:
     }
     ```
 
-
 ## Acknowledgements
 - The course *"Developing AI Applications with Python and Flask"*, offered by **IBM** through **Coursera**.
   You can find more details about the course [here](https://www.coursera.org/learn/python-project-for-ai-application-development).
 - Initial project template was forked from "https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git"
+- Special thanks to the **IBM Developer Skills Network** for providing the foundational project structure and guidance.
+
+---
